@@ -1,0 +1,6 @@
+mysql:
+  host: '127.0.0.1'
+  user: root
+  password: dhawalSQL
+  database: market_basket
+  port: 3306
